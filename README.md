@@ -99,7 +99,7 @@ yarn watch:rs for devlopment then yarn prod(include build) for production
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HLNVQJ2L2YYZU)
 
 # How to be a full stack Rust Developer
-
+relevant links : https://dev.to/steadylearner/how-to-make-a-fullstack-dapp-with-react-hardhat-and-ether-js-with-examples-4fi2
 Read Rust [API guideline](https://rust-lang.github.io/api-guidelines/). Test code here and refer to [the Rust blog posts at Steadylearner][Steadylearner Rust Blog Posts].
 
 [If you need or know someone to hire a full stack developer, please contact me](https://www.linkedin.com/in/steady-learner-3151b7164/). I also do freelance.
